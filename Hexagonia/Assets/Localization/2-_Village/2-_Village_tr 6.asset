@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 2-_Village_tr 6
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 2a5404ef16996e84d9d232eb13d4f871, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31105399136256
+    m_Localized: Bir rahip mi?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31105420107776
+    m_Localized: "B\xF6yle bir yerde ne i\u015Fi var?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31105420107777
+    m_Localized: "Bu kasaban\u0131n bir zamanlar normal oldu\u011Funu d\xFC\u015F\xFCnmek..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31105420107778
+    m_Localized: "\xDCrk\xFCt\xFCc\xFC bir evren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31105420107779
+    m_Localized: "\xD6nemli bir par\xE7ay\u0131 buldum! \u015Eimdi \xE7\u0131k\u0131\u015F
+      portal\u0131n\u0131 bulmal\u0131y\u0131m."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31105420107780
+    m_Localized: Vak Vak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31105420107781
+    m_Localized: "\xDCrk\xFCt\xFCc\xFC."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31105420107782
+    m_Localized: "Cad\u0131lar Bayram\u0131 temas\u0131 demek."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31105420107783
+    m_Localized: Hmm...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31105420107784
+    m_Localized: "\xC7ok korktum."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31105420107785
+    m_Localized: Vak Vak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31105420107786
+    m_Localized: "Art\u0131k vaazlar\u0131ma kimse gelmiyor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31105420107787
+    m_Localized: "\xC7\xFCnk\xFC art\u0131k hepsi hayalet."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 0-_HexagoniaEntrance_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: ddd424790c1adf44087731965b64be52, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20808269570048
+    m_Localized: AAAAAA!!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808307318784
+    m_Localized: Where am I?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808307318785
+    m_Localized: Press the "E" key to interact with characters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808307318786
+    m_Localized: 'Health Status: Good'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513088
+    m_Localized: 'Ship Health: Critical'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513089
+    m_Localized: Coordinates not found.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513090
+    m_Localized: Analyzing...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513091
+    m_Localized: "\u2026......"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513092
+    m_Localized: 'Result: We are in Hexagonia Parallel Universes.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513093
+    m_Localized: 'Mission: Find ship parts. Beware of dangers.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513094
+    m_Localized: Ship parts have been illuminated. Follow the lights and find the
+      parts.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513095
+    m_Localized: "\u2026......"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513096
+    m_Localized: Portals have been illuminated. Follow the lights and find the portals.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513097
+    m_Localized: Good luck.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513098
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513099
+    m_Localized: Parallel universes, huh?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513100
+    m_Localized: I wonder if they were really looking for this idea.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513101
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513102
+    m_Localized: First, I need to find the part.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513103
+    m_Localized: Once I find the part, I can reach the portal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513104
+    m_Localized: I've found the crucial part! Now I just need to locate the exit
+      portal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123602230059008
+    m_Localized: Press the "Space" key to jump over obstacles.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124474146168832
+    m_Localized: Hold down the "Shift" key to sprint and run faster.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1372565801279488
+    m_Localized: Click the left mouse button to skip the conversations..
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

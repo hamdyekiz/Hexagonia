@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 0-_HexagoniaEntrance_tr 4
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: ddd424790c1adf44087731965b64be52, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20808269570048
+    m_Localized: AAAAAA!!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808307318784
+    m_Localized: Wo ist das hier?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808307318785
+    m_Localized: "Dr\xFCcken Sie die Taste 'E', um mit den Charakteren zu interagieren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808307318786
+    m_Localized: 'Lebenssituation: Gut.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513088
+    m_Localized: 'Schiffsgesundheit: Kritisch'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513089
+    m_Localized: 'Gefundene Koordinaten: N/A'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513090
+    m_Localized: "Statusanalyse wird durchgef\xFChrt\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513091
+    m_Localized: "\u2026......"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513092
+    m_Localized: 'Ergebnis: Wir sind in den Hexagonia-Parallelwelten'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513093
+    m_Localized: 'Aufgabe: Schiffsteile finden. Achte auf Gefahren.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513094
+    m_Localized: Die Schiffsteile wurden beleuchtet. Folge den Lichtern, finde die
+      Teile.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513095
+    m_Localized: "\u2026......"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513096
+    m_Localized: Die Portale wurden beleuchtet. Folge den Lichtern und finde die
+      Portale.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513097
+    m_Localized: "Viel Gl\xFCck."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513098
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513099
+    m_Localized: Parallele Universen, huh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513100
+    m_Localized: Ich frage mich, ob sie wirklich nach dieser Idee gesucht haben
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513101
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513102
+    m_Localized: Zuerst muss ich das Teil finden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513103
+    m_Localized: Sobald ich das Teil finde, kann ich das Portal erreichen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513104
+    m_Localized: Ich habe das entscheidende Teil gefunden! Jetzt muss ich nur noch
+      das Ausgangsportal lokalisieren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123602230059008
+    m_Localized: "Dr\xFCcke die 'Leertaste', um \xFCber Hindernisse zu springen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124474146168832
+    m_Localized: "Shift'-Taste gedr\xFCckt halten, um zu sprinten und schneller zu
+      rennen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1372565801279488
+    m_Localized: "Klicken Sie mit der linken Maustaste, um die Gespr\xE4che zu \xFCberspringen."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

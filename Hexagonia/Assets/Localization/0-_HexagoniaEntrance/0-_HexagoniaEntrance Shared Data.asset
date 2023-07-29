@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: 0-_HexagoniaEntrance Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: 0-_HexagoniaEntrance
+  m_TableCollectionNameGuidString: ddd424790c1adf44087731965b64be52
+  m_Entries:
+  - m_Id: 20808269570048
+    m_Key: 'Obje: 1st D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808307318784
+    m_Key: 'Obje: 1st D L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808307318785
+    m_Key: 'Obje: "E" Dialogue L'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808307318786
+    m_Key: 'OBJE: robotSphere L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513088
+    m_Key: 'OBJE: robotSphere L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513089
+    m_Key: 'OBJE: robotSphere L3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513090
+    m_Key: 'OBJE: robotSphere L4'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513091
+    m_Key: 'OBJE: robotSphere L5'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513092
+    m_Key: 'OBJE: robotSphere L6'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513093
+    m_Key: 'OBJE: robotSphere L7'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513094
+    m_Key: 'OBJE: robotSphere L8'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513095
+    m_Key: 'OBJE: robotSphere L9'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513096
+    m_Key: 'OBJE: robotSphere L10'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513097
+    m_Key: 'OBJE: robotSphere L11'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513098
+    m_Key: 'Obje: RubberDuck_Orange L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513099
+    m_Key: 'Obje: RubberDuck_Orange L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513100
+    m_Key: 'Obje: RubberDuck_Orange L3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513101
+    m_Key: 'Obje: RubberDuck_Orange L4'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513102
+    m_Key: 'OBJE: PortalOnce L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513103
+    m_Key: 'OBJE: PortalOnce L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513104
+    m_Key: "OBJE: K\xFCp L1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123602230059008
+    m_Key: 'Obje: "Space" Dialogue L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124474146168832
+    m_Key: 'Obje: "Space" Dialogue L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1372565801279488
+    m_Key: 'Obje: "E" Dialogue L2
+
+'
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7182767878881411096
+  references:
+    version: 2
+    RefIds:
+    - rid: 7182767878881411096
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689467251461

@@ -1,0 +1,102 @@
+trackSelection = true
+fetchPreview = true
+defaultFlags = 0
+keepOpen = false
+queryFolder = "Assets"
+onBoardingDoNotAskAgain = true
+showPackageIndexes = false
+showStatusBar = false
+scopes = {
+	"last_search.DA949528" = "grid "
+	"OpenInspectorPreview.DA949528" = "0"
+	"currentGroup.DA949528" = "settings"
+	"last_search.B655092D" = "finale"
+	"OpenInspectorPreview.B655092D" = "0"
+	"currentGroup.B655092D" = "st"
+}
+providers = {
+	adb = {
+		active = false
+		priority = 2500
+		defaultAction = null
+	}
+	asset = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	store = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	find = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	log = {
+		active = false
+		priority = 210
+		defaultAction = null
+	}
+	packages = {
+		active = true
+		priority = 90
+		defaultAction = null
+	}
+	performance = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	scene = {
+		active = true
+		priority = 50
+		defaultAction = null
+	}
+	at = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	st = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+}
+objectSelectors = {
+}
+recentSearches = [
+	"Tutorial"
+	"Obje: \"E\" Dialogue L"
+	"\"E\" Dialogue L2 "
+	"\"E\" Dialogue L2"
+	"HexagoniaFinale_TopText"
+	"LastDialogue L1"
+	"HeTopTextGameFinished"
+	"HexagoniaFTopTextGameFinished"
+	"HexagoniaFinale_TopTextGameFinished"
+	"Rahat D L"
+	" Easy D L"
+	"Snowman D L"
+	"Wing6 L"
+	"RubberDuck_Cyan L"
+	"Arrow D L"
+	"Obje: Arrow D L"
+	"FreeLichHP L"
+	"FreeLichHP L1"
+	"Obje: Ice Giris D"
+	"HexagoniaTurnBase_WarningGotcha"
+]
+searchItemFavorites = [
+]
+savedSearchesSortOrder = 0
+showSavedSearchPanel = false
+expandedQueries = [
+]
+queryBuilder = false
+ignoredProperties = "id;name;classname;imagecontentshash"
+helperWidgetCurrentArea = "all"
+disabledIndexers = ""

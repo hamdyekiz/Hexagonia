@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 8-_Dungeon_tr 3
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 87aba60af6843a24e829cca8a7353745, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30279742005248
+    m_Localized: Wo bin ich jetzt?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279771365376
+    m_Localized: Und ist das ein Skelett?!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279771365377
+    m_Localized: Bleib dort!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279771365378
+    m_Localized: Oh, vergiss es.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559680
+    m_Localized: Du kannst weitermachen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559681
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559682
+    m_Localized: Sie haben mich hier wie eine Dekoration platziert.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559683
+    m_Localized: Unglaublich.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559684
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559685
+    m_Localized: Eine Truhe!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559686
+    m_Localized: Vielleicht sind wertvolle Dinge drin.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559687
+    m_Localized: Es scheint schwierig zu sein, hier durchzukommen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559688
+    m_Localized: Sollte ich nach einem anderen Weg suchen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559689
+    m_Localized: Ich denke....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559690
+    m_Localized: Ich muss einen anderen Weg finden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559691
+    m_Localized: "Ein Raum voller F\xE4sser\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559692
+    m_Localized: Seltsam!?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559693
+    m_Localized: Ich habe das entscheidende Teil gefunden! Jetzt muss ich nur noch
+      das Ausgangsportal lokalisieren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156434985918464
+    m_Localized: Das war's?..
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

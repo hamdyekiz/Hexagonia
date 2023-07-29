@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: 6-_Lava Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: 6-_Lava
+  m_TableCollectionNameGuidString: 4a49b91b9bc76494abb5bfeb46f6b017
+  m_Entries:
+  - m_Id: 30479067914240
+    m_Key: 'Obje: Lava Giris D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302848
+    m_Key: 'Obje: Lava Giris D L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302849
+    m_Key: 'Obje: Cowboy L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302850
+    m_Key: 'Obje: Cowboy L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302851
+    m_Key: 'Obje: Cowboy L3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302852
+    m_Key: 'Obje: Korku D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302853
+    m_Key: 'Obje: Iskence D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302854
+    m_Key: 'Obje: Iskence D L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302855
+    m_Key: 'Obje: Cockpit3_WithoutInterior L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302856
+    m_Key: 'OBJE: RubberDuck_Red L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302857
+    m_Key: 'OBJE: RubberDuck_Red L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302858
+    m_Key: 'OBJE: RubberDuck_Red L3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302859
+    m_Key: 'OBJE: RubberDuck_Red L4'
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7182767878881411102
+  references:
+    version: 2
+    RefIds:
+    - rid: 7182767878881411102
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689467562815

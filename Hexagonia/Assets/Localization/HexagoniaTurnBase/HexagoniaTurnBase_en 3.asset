@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HexagoniaTurnBase_en 3
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 78cf94335fbecab4a9c2639f3f0e1c78, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 551801795649536
+    m_Localized: Das Spiel pausiert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232448
+    m_Localized: Fortsetzen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232449
+    m_Localized: Neu starten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232450
+    m_Localized: SPIEL IST AUS!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232451
+    m_Localized: "\xDCbergang zum angegebenen Universum ...."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232452
+    m_Localized: Okay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232453
+    m_Localized: "Die Welt l\xE4dt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232454
+    m_Localized: In Entwicklung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232455
+    m_Localized: "Vorsichtig sein! Das Universum abreist aus einem Universum und
+      schlie\xDFt. Wenn Sie durch Schlie\xDFen von Universen gefangen werden, spiele
+      das Spiel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232456
+    m_Localized: Habe es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507901571072
+    m_Localized: In das Eisuniversum eintreten .....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348288
+    m_Localized: Eintritt in das Dorfuniversum .....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348289
+    m_Localized: Eintritt in das Schlossuniversum .....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348290
+    m_Localized: Eintritt in das Walduniversum .....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348291
+    m_Localized: In das Dungeon -Universum eintreten .....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348292
+    m_Localized: "Sich dem Raumschiff n\xE4hern ....."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348293
+    m_Localized: Eintritt in das Lava -Universum ....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348294
+    m_Localized: In das UP -Universum eintreten ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348295
+    m_Localized: Eintritt in das Labyrinth -Universum .....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1377978823221248
+    m_Localized: "Klicken Sie mit der linken Maustaste auf den Charakter und gehen
+      Sie zum gew\xFCnschten Universum."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: 9-_HexagoniaFinale Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: 9-_HexagoniaFinale
+  m_TableCollectionNameGuidString: 09819f86b0e77ea41ac2a1d6d03221a8
+  m_Entries:
+  - m_Id: 30141501939712
+    m_Key: 'OBJE: 1st D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911232
+    m_Key: 'OBJE: 1st D L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911233
+    m_Key: 'OBJE: robotSphere L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911234
+    m_Key: 'OBJE: robotSphere L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911235
+    m_Key: 'OBJE: robotSphere L3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911236
+    m_Key: 'OBJE: robotSphere L4'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911237
+    m_Key: 'OBJE: robotSphere L5'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911238
+    m_Key: 'OBJE: robotSphere L6'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911239
+    m_Key: 'OBJE: robotSphere L7'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911240
+    m_Key: 'OBJE: robotSphere L8'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911241
+    m_Key: 'OBJE: robotSphere L9'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911242
+    m_Key: 'OBJE: robotSphere L10'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911243
+    m_Key: 'OBJE: robotSphere L11'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911244
+    m_Key: 'Obje: Last D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911245
+    m_Key: 'Obje: Last D L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911246
+    m_Key: 'Obje: RubberDuck_Purple_MOBILE L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911247
+    m_Key: 'Obje: RubberDuck_Purple_MOBILE L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911248
+    m_Key: 'Obje: RubberDuck_Purple_MOBILE L3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911249
+    m_Key: 'Obje: RubberDuck_Purple_MOBILE L4'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30141522911250
+    m_Key: 'Obje: RubberDuck_Purple_MOBILE L5'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 189347869761536
+    m_Key: 'Obje: Hexagonia Leave L1'
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7182767878881411105
+  references:
+    version: 2
+    RefIds:
+    - rid: 7182767878881411105
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689467657108

@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 4-_Forest_tr 3
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 27fc6035cfae2b047ba39968665f9657, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30814712897536
+    m_Localized: Was ist das?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480448
+    m_Localized: "Es macht nichts\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480449
+    m_Localized: "Endlich\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480450
+    m_Localized: "Ich bin an einem sch\xF6nen Ort."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480451
+    m_Localized: "Was h\xE4ltst du davon, ins Wasser zu gehen, um dich abzuk\xFChlen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480452
+    m_Localized: Ich bin mir nicht sicher.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480453
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480454
+    m_Localized: "Die globale Erw\xE4rmung\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480455
+    m_Localized: Sie hat auch hier Einzug gehalten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480456
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480457
+    m_Localized: "Es sind 42 Grad drau\xDFen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480458
+    m_Localized: 'Der einzige Schatten, den ich finden konnte, ist hier.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480459
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480460
+    m_Localized: Sonne. Meer. Strand.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480461
+    m_Localized: "Alles ist sch\xF6n, nicht wahr?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480462
+    m_Localized: Nein!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480463
+    m_Localized: Verdammte Schlangen, wegen ihnen kann ich nichts tun.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480464
+    m_Localized: 'Ich habe das entscheidende Teil gefunden! Jetzt muss ich nur noch
+      das Ausgangsportal lokalisieren.
+
+
+
+
+
+'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

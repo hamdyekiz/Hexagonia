@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 7-_Maze_tr 3
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 45490ef4c70232c4ca04eb193bb9c8e0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30372041859072
+    m_Localized: "Oh nein\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247680
+    m_Localized: Ist es ein Labyrinth?!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247681
+    m_Localized: "\xDCberlege es dir zweimal, bevor du hineingehst\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247682
+    m_Localized: "Niemand, der dieses Labyrinth betreten hat, ist jemals zur\xFCckgekehrt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247683
+    m_Localized: Ich glaube, ich stecke in einer Sackgasse fest.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247684
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247685
+    m_Localized: So ist das Leben.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247686
+    m_Localized: Voller Sackgassen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247687
+    m_Localized: "Stell dir vor, so ein Universum zu entwerfen\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247688
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247689
+    m_Localized: Ich habe das entscheidende Teil gefunden! Jetzt muss ich nur noch
+      das Ausgangsportal lokalisieren.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

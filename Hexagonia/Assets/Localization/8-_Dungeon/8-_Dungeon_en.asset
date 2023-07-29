@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 8-_Dungeon_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 87aba60af6843a24e829cca8a7353745, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30279742005248
+    m_Localized: Where am I now?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279771365376
+    m_Localized: And is that a skeleton?!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279771365377
+    m_Localized: Stay there!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279771365378
+    m_Localized: Oh, forget it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559680
+    m_Localized: You can continue.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559681
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559682
+    m_Localized: They placed me here like a decor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559683
+    m_Localized: Unbelievable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559684
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559685
+    m_Localized: A chest!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559686
+    m_Localized: Maybe there are valuable things inside.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559687
+    m_Localized: It seems like it will be difficult to pass through here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559688
+    m_Localized: Should I look for another way?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559689
+    m_Localized: I think....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559690
+    m_Localized: I'll have to find another way
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559691
+    m_Localized: A room filled with barrels...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559692
+    m_Localized: Strange!?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559693
+    m_Localized: I've found the crucial part! Now I just need to locate the exit
+      portal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156434985918464
+    m_Localized: 'That''s it?...
+
+'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

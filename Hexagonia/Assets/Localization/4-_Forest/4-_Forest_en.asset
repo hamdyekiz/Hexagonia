@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 4-_Forest_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 27fc6035cfae2b047ba39968665f9657, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30814712897536
+    m_Localized: What's this?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480448
+    m_Localized: It doesn't do anything...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480449
+    m_Localized: Finally...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480450
+    m_Localized: I'm in a nice place.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480451
+    m_Localized: What do you think about the idea of going for a swim to cool off?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480452
+    m_Localized: I'm not sure.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480453
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480454
+    m_Localized: Global warming...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480455
+    m_Localized: It has reached here too.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480456
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480457
+    m_Localized: It's 42 degrees outside.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480458
+    m_Localized: The only shade I could find is here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480459
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480460
+    m_Localized: Sun. Sea. Beach.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480461
+    m_Localized: Everything is beautiful, isn't it?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480462
+    m_Localized: No!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480463
+    m_Localized: 'Damn snakes, I can''t do anything because of them.  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480464
+    m_Localized: I've found the crucial part! Now I just need to locate the exit
+      portal.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HexagoniaTurnBase_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 78cf94335fbecab4a9c2639f3f0e1c78, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 551801795649536
+    m_Localized: Oyun Durduruldu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232448
+    m_Localized: Devam Et
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232451
+    m_Localized: "Belirtilen Evrene Ge\xE7i\u015F Yap\u0131l\u0131yor...."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232452
+    m_Localized: Tamam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232453
+    m_Localized: "D\xFCnya Y\xFCkleniyor "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232454
+    m_Localized: "Geli\u015Ftiriliyor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232455
+    m_Localized: "Dikkat et! Bir evrenden \xE7\u0131kt\u0131\u011F\u0131nda o evren
+      kapan\u0131r. Kapanan evrenler taraf\u0131ndan k\u0131st\u0131r\u0131l\u0131rsan
+      oyun sona erer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232456
+    m_Localized: "Anlad\u0131m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507901571072
+    m_Localized: "Buz Evrenine Ge\xE7i\u015F Yap\u0131l\u0131yor....."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348288
+    m_Localized: "K\xF6y Evrenine Ge\xE7i\u015F Yap\u0131l\u0131yor....."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348289
+    m_Localized: "Kale Evrenine Ge\xE7i\u015F Yap\u0131l\u0131yor....."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348290
+    m_Localized: "Orman Evrenine Ge\xE7i\u015F Yap\u0131l\u0131yor....."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348291
+    m_Localized: "Zindan Evrenine Ge\xE7i\u015F Yap\u0131l\u0131yor....."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348292
+    m_Localized: "Uzay Gemisine Yakla\u015F\u0131l\u0131yor....."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348293
+    m_Localized: "Lav Evrenin Ge\xE7i\u015F Yap\u0131l\u0131yor...."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348294
+    m_Localized: "Yukar\u0131 Evrenine Ge\xE7i\u015F Yap\u0131l\u0131yor..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348295
+    m_Localized: "Labirent Evrenine Ge\xE7i\u015F Yap\u0131l\u0131yor....."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1377978823221248
+    m_Localized: "Karaktere sol t\u0131k bas\u0131n ve istedi\u011Finiz evrene gidin
+      gidebilirsiniz."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

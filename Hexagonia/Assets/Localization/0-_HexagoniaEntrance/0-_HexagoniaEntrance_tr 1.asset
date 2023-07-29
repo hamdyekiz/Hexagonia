@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 0-_HexagoniaEntrance_tr 1
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: ddd424790c1adf44087731965b64be52, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20808269570048
+    m_Localized: AAAAAA!!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808307318784
+    m_Localized: "Buras\u0131 da neresi?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808307318785
+    m_Localized: "Karakterlerle etkile\u015Fime ge\xE7mek i\xE7in \"E\" tu\u015Funa
+      bas\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808307318786
+    m_Localized: "Ya\u015Fam Durumu: \u0130yi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513088
+    m_Localized: "Gemi Sa\u011Fl\u0131\u011F\u0131: Kritik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513089
+    m_Localized: 'Bulunan Koordinatlar: N/A'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513090
+    m_Localized: "Durum Analizi Yap\u0131l\u0131yor\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513091
+    m_Localized: "\u2026......"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513092
+    m_Localized: "Sonu\xE7: Hexagonia Paralel Evrenlerindeyiz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513093
+    m_Localized: "G\xF6rev: Gemi par\xE7alar\u0131n\u0131 bul. Tehlikelere dikkat
+      et."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513094
+    m_Localized: "Gemi par\xE7alar\u0131 \u0131\u015F\u0131kland\u0131r\u0131ld\u0131.
+      I\u015F\u0131klar\u0131 takip et, par\xE7alar\u0131 bul."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513095
+    m_Localized: "\u2026......"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513096
+    m_Localized: "Portallar \u0131\u015F\u0131kland\u0131r\u0131ld\u0131. I\u015F\u0131klar\u0131
+      takip et, portallar\u0131 bul."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513097
+    m_Localized: "Bol \u015Eans"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513098
+    m_Localized: Vak Vak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513099
+    m_Localized: Paralel evrenler, ha?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513100
+    m_Localized: "Bu fikri \xE7ok mu arad\u0131lar acaba?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513101
+    m_Localized: Vak Vak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513102
+    m_Localized: "\xD6nce par\xE7ay\u0131 bulmam gerek."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513103
+    m_Localized: "Par\xE7ay\u0131 bulduktan sonra portal'a ula\u015Fabilirim."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513104
+    m_Localized: "\xD6nemli bir par\xE7ay\u0131 buldum! \u015Eimdi \xE7\u0131k\u0131\u015F
+      portal\u0131n\u0131 bulmal\u0131y\u0131m."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123602230059008
+    m_Localized: "Engellerin \xFCzerinden atlamak i\xE7in \"Space\" tu\u015Funa bas\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124474146168832
+    m_Localized: "Ko\u015Fmak i\xE7in \"Shift\" tu\u015Funu bas\u0131l\u0131 tutun."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1372565801279488
+    m_Localized: "Konu\u015Fmalar\u0131 ge\xE7mek i\xE7in Mause sol t\u0131k\u0131na
+      bas\u0131n\u0131z."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

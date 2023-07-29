@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 1-_Ice_he
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: he
+  m_SharedData: {fileID: 11400000, guid: d64410285ee77f34abe22c74504601dc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 40396373893120
+    m_Localized: "\u05DB\u05DC \u05DB\u05DA \u05E7\u05E8..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058944
+    m_Localized: "\u05DE\u05D4 \u05D6\u05D4 \u05E9\u05D0\u05EA\u05D4 \u05DC\u05D5\u05D1\u05E9?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058945
+    m_Localized: "\u05DB\u05E0\u05E8\u05D0\u05D4 \u05E9\u05D6\u05D4 \u05DC\u05D0
+      \u05D9\u05D2\u05DF \u05E2\u05DC\u05D9\u05DA \u05DE\u05D4\u05E7\u05D5\u05E8."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058946
+    m_Localized: "\u05D2\u05DD \u05D0\u05DD \u05D4\u05E7\u05D5\u05E8 \u05E2\u05E6\u05DE\u05D5
+      \u05DC\u05D0 \u05D9\u05D4\u05D9\u05D4 \u05D1\u05E2\u05D9\u05D4... \u05D0\u05D4..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058947
+    m_Localized: "\u05D0\u05EA\u05D4 \u05EA\u05E8\u05D0\u05D4 \u05D1\u05E7\u05E8\u05D5\u05D1
+      \u05DE\u05E1\u05E4\u05D9\u05E7 \u05D1\u05DB\u05DC \u05D6\u05D0\u05EA. \u05D4\u05D4\u05D4\u05D4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058948
+    m_Localized: "\u05D4\u05DE\u05D4....\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058949
+    m_Localized: "\u05DC\u05E0\u05D2\u05D9\u05E2\u05D4 \u05D1\u05D7\u05E6\u05D9\u05DD......"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058950
+    m_Localized: "\u05DC\u05D0 \u05DE\u05E9\u05E0\u05D4 \u05D1\u05D0\u05D9\u05D6\u05D5
+      \u05D9\u05D7\u05D9\u05D3\u05D4 \u05D0\u05EA\u05D4 \u05E0\u05DE\u05E6\u05D0,
+      \u05D6\u05D4 \u05EA\u05DE\u05D9\u05D3 \u05E8\u05E2\u05D9\u05D5\u05DF \u05E8\u05E2."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058951
+    m_Localized: "\u05E7\u05D5\u05D5\u05D0\u05E7. \u05E7\u05D5\u05D5\u05D0\u05E7."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058952
+    m_Localized: "\u05D4\u05D0\u05DD \u05D6\u05D4 \u05DC\u05D0 \u05DE\u05D3\u05D4\u05D9\u05DD
+      \u05D0\u05D9\u05DA \u05D4\u05E0\u05DB\u05E1\u05D9\u05DD \u05E7\u05E9\u05D5\u05E8\u05D9\u05DD
+      \u05DC\u05E7\u05D5\u05E8?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253248
+    m_Localized: "\u05E8\u05E7 \u05DE\u05EA\u05DB\u05D5\u05E0\u05DF."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253249
+    m_Localized: "\u05E7\u05D5\u05D5\u05D0\u05E7. \u05E7\u05D5\u05D5\u05D0\u05E7."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253250
+    m_Localized: "\u05DE\u05E6\u05D0\u05EA\u05D9 \u05D0\u05EA \u05D4\u05D7\u05DC\u05E7
+      \u05D4\u05E7\u05E8\u05D9\u05D8\u05D9! \u05E2\u05DB\u05E9\u05D9\u05D5 \u05E2\u05DC\u05D9\u05D9
+      \u05DC\u05D0\u05EA\u05E8 \u05D0\u05EA \u05E4\u05D5\u05E8\u05D8\u05DC \u05D4\u05D9\u05E6\u05D9\u05D0\u05D4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253251
+    m_Localized: "\u05D4\u05D1\u05D5\u05D1\u05D5\u05EA \u05D4\u05E9\u05DC\u05D2..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253252
+    m_Localized: "\u05D4\u05DF \u05E0\u05E2\u05D5\u05EA \u05D1\u05D0\u05D5\u05E4\u05DF
+      \u05DE\u05D5\u05D6\u05E8."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253253
+    m_Localized: "\u05DE\u05E6\u05D0\u05EA\u05D9 \u05DE\u05E1\u05DC\u05D5\u05DC \u05D1\u05D8\u05D5\u05D7
+      \u05D5\u05E7\u05DC."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253254
+    m_Localized: "\u05E7\u05DC."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253255
+    m_Localized: "\u05D0\u05D5\u05D9...\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253256
+    m_Localized: "\u05E2\u05DB\u05E9\u05D9\u05D5 \u05D0\u05E0\u05D9 \u05D9\u05DB\u05D5\u05DC
+      \u05DC\u05D7\u05D6\u05D5\u05E8 \u05D1\u05E7\u05DC\u05D5\u05EA.\r\n\r\n\r\n\r\n\r\n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

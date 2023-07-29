@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MainMenu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MainMenu
+  m_TableCollectionNameGuidString: f1b63a691e0e8144e8ed226060330f7d
+  m_Entries:
+  - m_Id: 225439775989760
+    m_Key: Menu New Game Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439834710016
+    m_Key: Menu  Settings Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439834710017
+    m_Key: Menu Exit Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439834710018
+    m_Key: Menu Language Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439834710019
+    m_Key: TurkishButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439834710020
+    m_Key: EnglishButoon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439834710021
+    m_Key: Menu Sounds Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439834710022
+    m_Key: Menu Audio TopText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439838904320
+    m_Key: Menu Language Dialog Back Btn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439838904321
+    m_Key: Menu Language Dialog Apply Btn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439838904322
+    m_Key: Menu Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439838904323
+    m_Key: Menu NewGamePanelDialog TopText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439838904324
+    m_Key: NewGameDialog_ButtonYes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439838904325
+    m_Key: NewGameDialog_ButtonNo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 532539202871296
+    m_Key: German
+    m_Metadata:
+      m_Items: []
+  - m_Id: 532539202871297
+    m_Key: Hebrew
+    m_Metadata:
+      m_Items: []
+  - m_Id: 532539207065600
+    m_Key: Russian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 532539207065601
+    m_Key: Spanish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 533180881051650
+    m_Key: DuckHebrew
+    m_Metadata:
+      m_Items: []
+  - m_Id: 533180881051652
+    m_Key: DuckRussian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 533180881051653
+    m_Key: DuckSpanish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538883293192192
+    m_Key: DuckGerman
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7182767878881411107
+  references:
+    version: 2
+    RefIds:
+    - rid: 7182767878881411107
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689467724584

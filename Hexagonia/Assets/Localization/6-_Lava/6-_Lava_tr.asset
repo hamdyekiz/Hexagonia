@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 6-_Lava_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 4a49b91b9bc76494abb5bfeb46f6b017, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30479067914240
+    m_Localized: "Bir kovboyun burada ne i\u015Fi olabilir?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302848
+    m_Localized: "Daha neler g\xF6rece\u011Fim acaba..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302849
+    m_Localized: Selam, evlat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302850
+    m_Localized: "Umar\u0131m g\xFCne\u015F g\xF6zl\xFCklerini unutmam\u0131\u015Fs\u0131nd\u0131r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302851
+    m_Localized: "Burada hava bi' t\u0131k s\u0131cak."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302852
+    m_Localized: Korkuyorum...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302853
+    m_Localized: "Bir de bunlar m\u0131 var?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302854
+    m_Localized: Bari son olsun...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302855
+    m_Localized: "\xD6nemli bir par\xE7ay\u0131 buldum! \u015Eimdi \xE7\u0131k\u0131\u015F
+      portal\u0131n\u0131 bulmal\u0131y\u0131m."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302856
+    m_Localized: Vak Vak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302857
+    m_Localized: "Epeydir izliyorum. Kas\u0131tl\u0131 yapm\u0131\u015F olmal\u0131lar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302858
+    m_Localized: "D\xFC\u015F\xFC\u015F\xFCn\xFC izlemek \xE7ok keyifli."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302859
+    m_Localized: Vak Vak
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

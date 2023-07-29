@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HexagoniaTurnBase_en 7
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 78cf94335fbecab4a9c2639f3f0e1c78, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 551801795649536
+    m_Localized: Juego pausado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232448
+    m_Localized: Reanudar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232449
+    m_Localized: Reanudar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232450
+    m_Localized: "\xA1JUEGO TERMINADO!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232451
+    m_Localized: "Transici\xF3n al universo especificado ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232452
+    m_Localized: Bueno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232453
+    m_Localized: "El mundo se est\xE1 cargando"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232454
+    m_Localized: En desarrollo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232455
+    m_Localized: "\xA1Ten cuidado! Dejando de un universo, ese universo se cierra.
+      Si te quedas atrapado por el cierre de universos, juego."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232456
+    m_Localized: Entiendo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507901571072
+    m_Localized: Entrando al universo de hielo .....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348288
+    m_Localized: Entrando al universo del pueblo .....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348289
+    m_Localized: Entrando al universo del castillo .....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348290
+    m_Localized: Entrando al universo del bosque .....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348291
+    m_Localized: Entrando al universo de mazmorras .....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348292
+    m_Localized: "Acerc\xE1ndose a la nave espacial ....."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348293
+    m_Localized: Entrando al universo de lava ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348294
+    m_Localized: Entrando al universo up ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348295
+    m_Localized: Entrando al universo del laberinto .....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1377978823221248
+    m_Localized: Haz clic izquierdo en el personaje y ve al universo que quieras.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

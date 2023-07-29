@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 8-_Dungeon_tr 7
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 87aba60af6843a24e829cca8a7353745, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30279742005248
+    m_Localized: "\xBFD\xF3nde estoy ahora?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279771365376
+    m_Localized: "\xBFY es eso un esqueleto?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279771365377
+    m_Localized: "\xA1Permanecer all\xED!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279771365378
+    m_Localized: "Oh olv\xEDdalo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559680
+    m_Localized: Puedes continuar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559681
+    m_Localized: Curandero. Curandero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559682
+    m_Localized: "Me colocaron aqu\xED como una decoraci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559683
+    m_Localized: "Incre\xEDble"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559684
+    m_Localized: Curandero. Curandero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559685
+    m_Localized: "\xA1Un pecho!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559686
+    m_Localized: Tal vez hay cosas valiosas adentro.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559687
+    m_Localized: "Parece que ser\xE1 dif\xEDcil pasar por aqu\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559688
+    m_Localized: "\xBFDebo buscar otra forma?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559689
+    m_Localized: Creo....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559690
+    m_Localized: "Tendr\xE9 que encontrar otra forma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559691
+    m_Localized: "Una habitaci\xF3n llena de barriles ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559692
+    m_Localized: "\xBF\xA1Extra\xF1o!?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559693
+    m_Localized: "\xA1He encontrado la parte crucial! Ahora solo necesito localizar
+      el portal de salida."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156434985918464
+    m_Localized: "\xBFEso es todo?...\n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

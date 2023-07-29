@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainMenu_en 3
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: f1b63a691e0e8144e8ed226060330f7d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 225439775989760
+    m_Localized: Neues Spiel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439834710016
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439834710017
+    m_Localized: Beenden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439834710018
+    m_Localized: Sprachen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439834710019
+    m_Localized: "T\xFCrkisch"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439834710020
+    m_Localized: Englisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439834710021
+    m_Localized: Sounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439834710022
+    m_Localized: Audio-Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439838904320
+    m_Localized: "Zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439838904321
+    m_Localized: Anwenden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439838904322
+    m_Localized: "Lautst\xE4rke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439838904323
+    m_Localized: "M\xF6chtest du ein neues Spiel starten?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439838904324
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225439838904325
+    m_Localized: Nein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 532539202871296
+    m_Localized: Deutsch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 532539202871297
+    m_Localized: "hebr\xE4isch"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 532539207065600
+    m_Localized: Russisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 532539207065601
+    m_Localized: Spanisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 533180881051650
+    m_Localized: Quack-quack-shalom! I'm dabbling in Hebrew quack-uage too! I quack-cided
+      to translate this quack-tastic game, quack-quack! Watch out world, the multilingual
+      duck is quack-lingual now! Quack-quack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 533180881051652
+    m_Localized: 'Quack-tastic! Ay got my feathers in a fluff when quackin'' to the
+      Soviet anthem! The game went from quack to quirk with a dash of Rushian charm.
+      Now, comrades everywhere can quack in joy while playin''. Let''s celebrate
+      with quacktails! Cheers, my feathered friends! '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 533180881051653
+    m_Localized: "Quack, quack! \xA1Hola! So, I've been quacking and waddling around,
+      and guess what? I've learned a thing or two from watching La Liga. Yup, this
+      little duck has become quite the espanol expert! I've even started translating
+      this game. Can you believe it? Quack-tastic!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 538883293192192
+    m_Localized: 'Quacktastic greetings, my fine feathered friends! I took on the
+      noble task of translating the game with my quacktastic German skills, all thanks
+      to my cousin''s quackmazing teachings. Now, confusion has said auf wiedersehen,
+      and the game is more accessible to all! Quacktastic success all around! '
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 6-_Lava_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4a49b91b9bc76494abb5bfeb46f6b017, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30479067914240
+    m_Localized: 'What could a cowboy be doing here? '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302848
+    m_Localized: I wonder what else I'll see...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302849
+    m_Localized: Howdy, partner.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302850
+    m_Localized: I hope you didn't forget your sunglasses.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302851
+    m_Localized: It's a bit hot around here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302852
+    m_Localized: I'm scared...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302853
+    m_Localized: And now these too?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302854
+    m_Localized: At least let it be the last...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302855
+    m_Localized: I've found the crucial part! Now I just need to locate the exit
+      portal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302856
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302857
+    m_Localized: I've been watching for a while now. They must have done it on purpose.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302858
+    m_Localized: It's really enjoyable to watch you fall down.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302859
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

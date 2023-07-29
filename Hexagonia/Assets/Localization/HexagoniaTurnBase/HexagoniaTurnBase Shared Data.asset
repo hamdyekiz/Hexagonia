@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: HexagoniaTurnBase Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: HexagoniaTurnBase
+  m_TableCollectionNameGuidString: 78cf94335fbecab4a9c2639f3f0e1c78
+  m_Entries:
+  - m_Id: 551801795649536
+    m_Key: HexagoniaTurnBase_TopTextPause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232448
+    m_Key: HexagoniaTurnBase_ResumePause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232449
+    m_Key: HexagoniaTurnBase_RestartButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232450
+    m_Key: HexagoniaTurnBase_RestartButtonTopText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232451
+    m_Key: HexagoniaTurnBase_PopUpTop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232452
+    m_Key: HexagoniaTurnBase_YesButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232453
+    m_Key: HexagoniaTurnBase_Loading TOP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232454
+    m_Key: HexagoniaTurnBase_underDevelopment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232455
+    m_Key: HexagoniaTurnBase_WarningTop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232456
+    m_Key: HexagoniaTurnBase_WarningGotcha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507901571072
+    m_Key: PopUpIndex0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348288
+    m_Key: PopUpIndex1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348289
+    m_Key: PopUpIndex2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348290
+    m_Key: PopUpIndex3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348291
+    m_Key: PopUpIndex4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348292
+    m_Key: PopUpIndex5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348293
+    m_Key: PopUpIndex6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348294
+    m_Key: PopUpIndex7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348295
+    m_Key: PopUpIndex8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1377978823221248
+    m_Key: Tutorial
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7182767878881411106
+  references:
+    version: 2
+    RefIds:
+    - rid: 7182767878881411106
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689467695072

@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 4-_Forest_tr 7
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 27fc6035cfae2b047ba39968665f9657, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30814712897536
+    m_Localized: "\xBFQu\xE9 es esto?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480448
+    m_Localized: No hace nada ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480449
+    m_Localized: Finalmente...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480450
+    m_Localized: Estoy en un buen lugar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480451
+    m_Localized: "\xBFQu\xE9 piensas sobre la idea de ir a nadar para que se refrescan?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480452
+    m_Localized: No estoy seguro.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480453
+    m_Localized: Curandero. Curandero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480454
+    m_Localized: Calentamiento global...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480455
+    m_Localized: "Tambi\xE9n ha llegado aqu\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480456
+    m_Localized: Curandero. Curandero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480457
+    m_Localized: Son 42 grados afuera.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480458
+    m_Localized: "El \xFAnico tono que pude encontrar est\xE1 aqu\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480459
+    m_Localized: Curandero. Curandero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480460
+    m_Localized: Sol. Mar. Playa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480461
+    m_Localized: "Todo es hermoso, \xBFno?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480462
+    m_Localized: "\xA1No!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480463
+    m_Localized: Malditas serpientes, no puedo hacer nada por ellos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30814725480464
+    m_Localized: "\xA1He encontrado la parte crucial! Ahora solo necesito localizar
+      el portal de salida."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

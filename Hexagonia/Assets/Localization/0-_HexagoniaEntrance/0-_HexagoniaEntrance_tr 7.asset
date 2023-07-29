@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 0-_HexagoniaEntrance_tr 7
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: ddd424790c1adf44087731965b64be52, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20808269570048
+    m_Localized: Aaaaaa !!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808307318784
+    m_Localized: "\xBFD\xF3nde estoy?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808307318785
+    m_Localized: Presione la tecla "E" para interactuar con los caracteres.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808307318786
+    m_Localized: 'Estado de salud: bueno'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513088
+    m_Localized: "Salud del barco: cr\xEDtico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513089
+    m_Localized: Coordenadas no encontradas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513090
+    m_Localized: "An\xE1lisis ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513091
+    m_Localized: "\u2026 ......"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513092
+    m_Localized: 'Resultado: estamos en universos paralelos de Hexagonia.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513093
+    m_Localized: "Misi\xF3n: Encuentra piezas de barco. Tenga cuidado con los peligros."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513094
+    m_Localized: Las piezas del barco han sido iluminadas. Siga las luces y encuentre
+      las piezas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513095
+    m_Localized: "\u2026 ......"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513096
+    m_Localized: Los portales han sido iluminados. Siga las luces y encuentre los
+      portales.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513097
+    m_Localized: Buena suerte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513098
+    m_Localized: Curandero. Curandero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513099
+    m_Localized: "Universos paralelos, \xBFeh?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513100
+    m_Localized: Me pregunto si realmente estaban buscando esta idea.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513101
+    m_Localized: Curandero. Curandero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513102
+    m_Localized: Primero, necesito encontrar la parte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513103
+    m_Localized: Una vez que encuentro la parte, puedo llegar al portal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20808311513104
+    m_Localized: "\xA1He encontrado la parte crucial! Ahora solo necesito localizar
+      el portal de salida."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123602230059008
+    m_Localized: "Presione la tecla \"Espacio\" para saltar sobre obst\xE1culos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124474146168832
+    m_Localized: "Mantenga presionada la tecla \"Cambio\" para correr y ejecutar
+      m\xE1s r\xE1pido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1372565801279488
+    m_Localized: "Haga clic en el bot\xF3n izquierdo del mouse para omitir las conversaciones..."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

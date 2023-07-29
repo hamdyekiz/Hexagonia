@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: 5-_Up Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: 5-_Up
+  m_TableCollectionNameGuidString: 2e3a4df2995b37941b2aab580673eca4
+  m_Entries:
+  - m_Id: 30624895475712
+    m_Key: 'Obje: Up Giris D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058624
+    m_Key: 'Obje: RubberDuck_Black: L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058625
+    m_Key: 'Obje: RubberDuck_Black: L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058626
+    m_Key: 'Obje: RubberDuck_Black: L3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058627
+    m_Key: 'Obje: RubberDuck_Black: L4'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058628
+    m_Key: 'Obje: RubberDuck_Black: L5'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058629
+    m_Key: 'Obje: Paperman L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058630
+    m_Key: 'Obje: Paperman L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058631
+    m_Key: 'Obje: Paperman L3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058632
+    m_Key: 'Obje: Paperman L4'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058633
+    m_Key: 'Obje: Ucan Araba D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058634
+    m_Key: 'Obje: Ucan Araba D L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058635
+    m_Key: 'Obje: Normalles D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058636
+    m_Key: 'Obje: Normalles D L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058637
+    m_Key: "Obje: Ac\u0131kt\u0131m D L1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058638
+    m_Key: 'Obje: Enough D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058639
+    m_Key: 'Obje: Blaster L1'
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7182767878881411101
+  references:
+    version: 2
+    RefIds:
+    - rid: 7182767878881411101
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689467523391

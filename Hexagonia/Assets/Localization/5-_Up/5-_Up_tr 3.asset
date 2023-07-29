@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 5-_Up_tr 3
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 2e3a4df2995b37941b2aab580673eca4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30624895475712
+    m_Localized: Warum ist alles so klein?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058624
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058625
+    m_Localized: Wie kann ein Filterkaffee 42 Lira kosten?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058626
+    m_Localized: Und ich warte schon seit einer Stunde darauf, dass meine Bestellung
+      aufgenommen wird.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058627
+    m_Localized: Hier wurde nichts programmiert.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058628
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058629
+    m_Localized: Bzzt. Bzzt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058630
+    m_Localized: HOCH. HOCH. HOCH.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058631
+    m_Localized: Bzzt. Bzzt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058632
+    m_Localized: HOCH. HOCH. HOCH.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058633
+    m_Localized: "Jetzt fliegende Autos\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058634
+    m_Localized: Sie scheinen in der Schlange zu warten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058635
+    m_Localized: "Alles hat angefangen gr\xF6\xDFer zu werden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058636
+    m_Localized: Oder vielleicht werde ich kleiner?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058637
+    m_Localized: 'Ich fange an Hunger zu bekommen.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058638
+    m_Localized: Wie lange wird das noch dauern?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058639
+    m_Localized: Ich habe das entscheidende Teil gefunden! Jetzt muss ich nur noch
+      das Ausgangsportal lokalisieren.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

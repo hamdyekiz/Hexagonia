@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 5-_Up_tr 7
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 2e3a4df2995b37941b2aab580673eca4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30624895475712
+    m_Localized: "\xBFPor qu\xE9 todo es tan peque\xF1o?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058624
+    m_Localized: Curandero. Curandero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058625
+    m_Localized: "\xBFC\xF3mo podr\xEDa un caf\xE9 de filtro costar 42 liras?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058626
+    m_Localized: Y he estado esperando que mi pedido se tome durante una hora ahora.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058627
+    m_Localized: "No codificaron nada aqu\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058628
+    m_Localized: Curandero. Curandero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058629
+    m_Localized: Bzzt. Bzzt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058630
+    m_Localized: ARRIBA. ARRIBA. ARRIBA.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058631
+    m_Localized: Bzzt. Bzzt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058632
+    m_Localized: ARRIBA. ARRIBA. ARRIBA.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058633
+    m_Localized: Ahora autos voladores ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058634
+    m_Localized: Parecen estar esperando en la fila.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058635
+    m_Localized: Todo ha comenzado a crecer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058636
+    m_Localized: "\xBFO tal vez me estoy volviendo m\xE1s peque\xF1o?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058637
+    m_Localized: Estoy empezando a tener hambre.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058638
+    m_Localized: "\xBFCu\xE1nto tiempo m\xE1s pasar\xE1 esto?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30624908058639
+    m_Localized: "\xA1He encontrado la parte crucial! Ahora solo necesito localizar
+      el portal de salida."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

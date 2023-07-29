@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 6-_Lava_tr 3
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 4a49b91b9bc76494abb5bfeb46f6b017, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30479067914240
+    m_Localized: Was macht ein Cowboy hier?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302848
+    m_Localized: Ich frage mich, was ich noch sehen werde...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302849
+    m_Localized: Hallo, Partner.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302850
+    m_Localized: Ich hoffe, du hast deine Sonnenbrille nicht vergessen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302851
+    m_Localized: "Es ist hier ein bisschen hei\xDF."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302852
+    m_Localized: "Ich habe Angst\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302853
+    m_Localized: Und jetzt auch noch diese?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302854
+    m_Localized: "Zumindest lasst es das letzte sein\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302855
+    m_Localized: Ich habe das entscheidende Teil gefunden! Jetzt muss ich nur noch
+      das Ausgangsportal lokalisieren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302856
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302857
+    m_Localized: "Ich beobachte schon eine Weile. Sie m\xFCssen es absichtlich gemacht
+      haben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302858
+    m_Localized: Es ist wirklich unterhaltsam, dich fallen zu sehen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30479076302859
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

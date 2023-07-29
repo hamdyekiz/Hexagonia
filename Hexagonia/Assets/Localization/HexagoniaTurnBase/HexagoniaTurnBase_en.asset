@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HexagoniaTurnBase_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 78cf94335fbecab4a9c2639f3f0e1c78, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 551801795649536
+    m_Localized: Game Paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232448
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232449
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232450
+    m_Localized: GAME OVER!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232451
+    m_Localized: Transitioning to the Specified Universe....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232452
+    m_Localized: Okay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232453
+    m_Localized: The World is Loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232454
+    m_Localized: Under Development
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232455
+    m_Localized: Be careful! Leaving from a universe, that universe closes. If you
+      get trapped by closing universes, GAME OVER.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551801808232456
+    m_Localized: Got It
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507901571072
+    m_Localized: Entering to the Ice Universe.....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348288
+    m_Localized: Entering to the Village Universe.....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348289
+    m_Localized: Entering to the Castle Universe.....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348290
+    m_Localized: Entering to the Forest Universe.....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348291
+    m_Localized: Entering  to the Dungeon Universe.....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348292
+    m_Localized: Approaching the Spaceship.....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348293
+    m_Localized: Entering to the Lava Universe....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348294
+    m_Localized: Entering to the Up Universe...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675507918348295
+    m_Localized: Entering to the Labyrinth Universe.....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1377978823221248
+    m_Localized: Left click on the character and go to the universe you want.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

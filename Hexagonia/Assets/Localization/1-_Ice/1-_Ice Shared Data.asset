@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: 1-_Ice Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: 1-_Ice
+  m_TableCollectionNameGuidString: d64410285ee77f34abe22c74504601dc
+  m_Entries:
+  - m_Id: 40396373893120
+    m_Key: 'Obje: Ice Giris D'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058944
+    m_Key: 'Obje: FreeLichHP L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058945
+    m_Key: 'Obje: FreeLichHP L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058946
+    m_Key: 'Obje: FreeLichHP L3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058947
+    m_Key: 'Obje: FreeLichHP L4'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058948
+    m_Key: 'Obje: Arrow D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058949
+    m_Key: 'Obje: Arrow D L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058950
+    m_Key: 'Obje: Arrow D L3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058951
+    m_Key: 'Obje: RubberDuck_Cyan L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058952
+    m_Key: 'Obje: RubberDuck_Cyan L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253248
+    m_Key: 'Obje: RubberDuck_Cyan L3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253249
+    m_Key: 'Obje: RubberDuck_Cyan L4'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253250
+    m_Key: 'Obje: Wing6 L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253251
+    m_Key: 'Obje: Snowman D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253252
+    m_Key: 'Obje: Snowman D L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253253
+    m_Key: 'Obje: Easy D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253254
+    m_Key: 'Obje: Easy D L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253255
+    m_Key: 'Obje: Rahat D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253256
+    m_Key: 'Obje: Rahat D L2'
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7182767910109315160
+  references:
+    version: 2
+    RefIds:
+    - rid: 7182767910109315160
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689589094045

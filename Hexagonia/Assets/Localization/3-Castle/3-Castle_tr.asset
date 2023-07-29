@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 3-Castle_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: c75fe895fd2deef4da0f9e04e9dea3b6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 138624926752768
+    m_Localized: "Hmm\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138624964501504
+    m_Localized: "Bir kule ve bir \u015Fovalye."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138624964501505
+    m_Localized: "B\xF6yle kule mi olur?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138624964501506
+    m_Localized: "Att\u0131\u011F\u0131m her ad\u0131mdan korkuyorum."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138624964501507
+    m_Localized: Vak Vak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138624964501508
+    m_Localized: "Dikine do\u011Fru bir kule."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138624964501509
+    m_Localized: "Bence vazge\xE7. \xC7ok uzun i\u015F."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138624964501510
+    m_Localized: Vak Vak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138624964501511
+    m_Localized: "\xD6nemli bir par\xE7ay\u0131 buldum! \u015Eimdi \xE7\u0131k\u0131\u015F
+      portal\u0131n\u0131 bulmal\u0131y\u0131m."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138624964501512
+    m_Localized: Biraz dinlenmeliyim.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138624964501513
+    m_Localized: "\u015Eimdi hangi taraftan gitmeliyim?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138624964501514
+    m_Localized: Hmm...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138624964501515
+    m_Localized: "Nedense y\xFCzde elli \u015Fans\u0131m varm\u0131\u015F gibi hissediyorum."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138624964501516
+    m_Localized: .........
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138624964501517
+    m_Localized: "Az kald\u0131..."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

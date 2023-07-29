@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 1-_Ice_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: d64410285ee77f34abe22c74504601dc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 40396373893120
+    m_Localized: "So kalt\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058944
+    m_Localized: "Was ist das, was du tr\xE4gst?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058945
+    m_Localized: "Es scheint nicht, dass es dich vor der K\xE4lte sch\xFCtzen wird"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058946
+    m_Localized: "Auch wenn die K\xE4lte selbst kein Problem sein wird... Nun ja."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058947
+    m_Localized: Du wirst es sowieso bald sehen. Hehehe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058948
+    m_Localized: Hmm....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058949
+    m_Localized: "Pfeile ber\xFChren......"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058950
+    m_Localized: Egal in welchem Universum du bist, ist es immer eine schlechte Idee.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058951
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396399058952
+    m_Localized: "Ist es nicht cool, wie die Assets mit K\xE4lte in Verbindung stehen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253248
+    m_Localized: "Nur Spa\xDF."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253249
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253250
+    m_Localized: Ich habe das entscheidende Teil gefunden! Jetzt muss ich nur noch
+      das Ausgangsportal lokalisieren.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253251
+    m_Localized: "Diese Schneem\xE4nner\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253252
+    m_Localized: Sie bewegen sich seltsam.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253253
+    m_Localized: Ich habe einen sicheren und einfachen Weg gefunden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253254
+    m_Localized: Einfach.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253255
+    m_Localized: "Puh\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40396403253256
+    m_Localized: "Jetzt kann ich leicht zur\xFCckgehen."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

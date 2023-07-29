@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: 8-_Dungeon Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: 8-_Dungeon
+  m_TableCollectionNameGuidString: 87aba60af6843a24e829cca8a7353745
+  m_Entries:
+  - m_Id: 30279742005248
+    m_Key: 'Obje: Dungeon Giris D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279771365376
+    m_Key: 'Obje: Dungeon Giris D L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279771365377
+    m_Key: 'Obje: UD_demo_character L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279771365378
+    m_Key: 'Obje: UD_demo_character L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559680
+    m_Key: 'Obje: UD_demo_character L3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559681
+    m_Key: 'Obje: RubberDuck_LightPurple L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559682
+    m_Key: 'Obje: RubberDuck_LightPurple L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559683
+    m_Key: 'Obje: RubberDuck_LightPurple L3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559684
+    m_Key: 'Obje: RubberDuck_LightPurple L4'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559685
+    m_Key: 'Obje: Sandik D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559686
+    m_Key: 'Obje: Sandik D L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559687
+    m_Key: 'Obje: Tuzak D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559688
+    m_Key: 'Obje: Tuzak D L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559689
+    m_Key: "Obje: Ba\u015Fka Yol D. L1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559690
+    m_Key: "Obje: Ba\u015Fka Yol D. L2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559691
+    m_Key: "Obje: F\u0131\xE7\u0131l D. L1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559692
+    m_Key: "Obje: F\u0131\xE7\u0131l D. L2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30279775559693
+    m_Key: 'Obje: MainBody2 L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156434985918464
+    m_Key: 'Obje: Chest L1'
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7182767878881411104
+  references:
+    version: 2
+    RefIds:
+    - rid: 7182767878881411104
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689467619996

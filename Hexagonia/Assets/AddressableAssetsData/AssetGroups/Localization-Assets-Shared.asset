@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 94b8cccf9d8fd0242b87c4b569a9d1b6
+  m_SerializeEntries:
+  - m_GUID: ddd424790c1adf44087731965b64be52
+    m_Address: Assets/Localization/0-_HexagoniaEntrance/0-_HexagoniaEntrance Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d64410285ee77f34abe22c74504601dc
+    m_Address: Assets/Localization/1-_Ice/1-_Ice Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a5404ef16996e84d9d232eb13d4f871
+    m_Address: Assets/Localization/2-_Village/2-_Village Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c75fe895fd2deef4da0f9e04e9dea3b6
+    m_Address: Assets/Localization/3-Castle/3-Castle Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27fc6035cfae2b047ba39968665f9657
+    m_Address: Assets/Localization/4-_Forest/4-_Forest Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e3a4df2995b37941b2aab580673eca4
+    m_Address: Assets/Localization/5-_Up/5-_Up Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a49b91b9bc76494abb5bfeb46f6b017
+    m_Address: Assets/Localization/6-_Lava/6-_Lava Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45490ef4c70232c4ca04eb193bb9c8e0
+    m_Address: Assets/Localization/7-_Maze/7-_Maze Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87aba60af6843a24e829cca8a7353745
+    m_Address: Assets/Localization/8-_Dungeon/8-_Dungeon Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09819f86b0e77ea41ac2a1d6d03221a8
+    m_Address: Assets/Localization/9-_HexagoniaFinale/9-_HexagoniaFinale Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78cf94335fbecab4a9c2639f3f0e1c78
+    m_Address: Assets/Localization/HexagoniaTurnBase/HexagoniaTurnBase Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1b63a691e0e8144e8ed226060330f7d
+    m_Address: Assets/Localization/MainMenu/MainMenu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 702a4e50a9650a947b8bbefe5f925012
+    m_Address: Assets/Localization/10-_HexagoniaFinale/HexagoniaFinale Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: c5cc9fc960463f9499277459d598ebc3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7b1984ba0334ae643aa216c9ed685f79, type: 2}
+    - {fileID: 11400000, guid: bf0ea1f0ac2264343bc7cc320a63e1f1, type: 2}

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: 7-_Maze Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: 7-_Maze
+  m_TableCollectionNameGuidString: 45490ef4c70232c4ca04eb193bb9c8e0
+  m_Entries:
+  - m_Id: 30372041859072
+    m_Key: 'Obje: Maze Giris D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247680
+    m_Key: 'Obje: Maze Giris D L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247681
+    m_Key: 'Obje PEASANT NOLANT BLUE: L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247682
+    m_Key: 'Obje PEASANT NOLANT BLUE: L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247683
+    m_Key: 'Obje: Cikmaz D L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247684
+    m_Key: 'Obje: RubberDuck_Pink L1'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247685
+    m_Key: 'Obje: RubberDuck_Pink L2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247686
+    m_Key: 'Obje: RubberDuck_Pink L3'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247687
+    m_Key: 'Obje: RubberDuck_Pink L4'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247688
+    m_Key: 'Obje: RubberDuck_Pink L5'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247689
+    m_Key: 'Obje: MainBody13 L1'
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7182767878881411103
+  references:
+    version: 2
+    RefIds:
+    - rid: 7182767878881411103
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689467593392

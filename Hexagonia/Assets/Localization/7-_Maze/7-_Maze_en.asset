@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 7-_Maze_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 45490ef4c70232c4ca04eb193bb9c8e0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 30372041859072
+    m_Localized: Oh no...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247680
+    m_Localized: Is it a labyrinth?!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247681
+    m_Localized: Think twice before entering...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247682
+    m_Localized: No one who entered this maze has ever returned.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247683
+    m_Localized: I think I'm stuck in a dead end.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247684
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247685
+    m_Localized: 'That''s how life is. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247686
+    m_Localized: Full of dead ends.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247687
+    m_Localized: Just imagine designing such a universe...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247688
+    m_Localized: Quack. Quack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30372050247689
+    m_Localized: I've found the crucial part! Now I just need to locate the exit
+      portal.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
