@@ -7,6 +7,8 @@
 - [Hamdi Ekiz: Product Owner/Scrum Master/Developer](https://github.com/hamdyekiz)
 - [Makbule Tomay: Team Member/Developer](https://github.com/tomaymakbule)
 - [Yağmur Çağla Öztürk: Team Member/Developer](https://github.com/ymrcgl)
+- [Sefercan Durmuş: Team Member/Developer](https://github.com/theseff)
+- [Ayşe Nur Erbilir: Team Member/Developer](https://github.com/AysenurErbilir)
 
 # Oyun İle İlgili Bilgiler
 - Oyunumuzun localization dosyası:
@@ -43,26 +45,6 @@ Keşif tabanlı ve bulmaca oyunlarından keyif alan geniş bir oyuncu kitlesine 
 
 ## Sprint 1
 
-**Sprint Notları**: 
-- Takım olarak proje yönetiminde Trello kullanımı kararlaştırılmıştır. Görevleri To Do, In Progress ve Done şeklinde 3 ana başlıkta ayırdık. 1. sprintte yapılacak görevleri To Do başlığına yazdık.
-- Daily Scrumları Whatsapp ve discord üzerinden gerçekleştirdik. Biri hafta içi diğeri hafta sonu olmak üzere haftada en az 2 defa sesli olarak discordda toplantı düzenleyip, takıldığımız yerleri konuşup fikir alışverişinde bulunduk.
-
-**Sprint içinde tamamlanması tahmin edilen puan**: 130 puan
-
-**Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 485 puanlık backlog bulunmaktadır. Bu sprintte sınavlarımız falan olduğundan kaynaklı en azından 130 puanlık backlog yapılması gerektiği karar verildi.
-
- **Daily Scrum**: 
-[**Sprint 1 Daily Scrum Chats**](https://github.com/hamdyekiz/OUABootcampTeam-U139/blob/main/Project%20Management/1.%20Sprint/daily_scrum.pdf)
-
- **Product Backlog**: 
-[Product Backlog URL](https://trello.com/b/fRqmKOd4/bootcamp-u139)
-
-
-
-
-**Sprint board update**: Sprint board screenshotları: 
-
-![Backlog 1](https://github.com/hamdyekiz/OUABootcampTeam-U139/blob/main/Project%20Management/1.%20Sprint/backlogsprint1.PNG)
 
 **Oyun Durumu**: Ekran görüntüleri:
 
@@ -71,52 +53,7 @@ Keşif tabanlı ve bulmaca oyunlarından keyif alan geniş bir oyuncu kitlesine 
 ![Screenshot 3](https://github.com/hamdyekiz/OUABootcampTeam-U139/blob/main/Project%20Management/1.%20Sprint/BC-2.png)
 ![Screenshot 4](https://github.com/hamdyekiz/OUABootcampTeam-U139/blob/main/Project%20Management/1.%20Sprint/BC-4.png)
 
-
-
-
- **Sprint Review katılımcıları:** 
-- Hamdi Ekiz, Makbule Tomay, Yağmur Çağla Öztürk
-  
- **Sprint Review**: 
-- Tur bazlı hareket mekaniği kodlandı. Üç boyutlu dünyalar ve oyun giriş ekranı gelişme aşamasında. Karakterin hareket mekaniği kodlandı. Sahneler arası geçiş mekaniği sorunu çözüldü.
-- 150 puanlık backlog tamamlandı.
-
-**Alınan kararlar**: 
-- Oyuna eklenebilecek detaylar konuşuldu. Üç boyutlu dünyaların daha küçük olarak tasarlanmasına karar verildi.
-
-  
- **Sprint Retrospective:**
-- Ekip içi iletişim sınavlar ve kişisel sebeplerden dolayı kopuktu. Ekip içi iletişimin arttırılması gerektiğine vurgu yapıldı. 
-
-
-
-**Diğer Notlar**:
-- Oyunun hareket mekaniği ve dünya tasarımıyla ilgili 1. sprint dosyasında birkaç tane video bulunmaktadır.
-  
-  
 ## Sprint 2
-
-**Sprint Notları**: 
-- Takım olarak proje yönetiminde Trello kullanmaya devam edildi. 
-- Daily Scrumları Whatsapp ve discord üzerinden gerçekleştirdik. Biri hafta içi diğeri hafta sonu olmak üzere haftada en az 2 defa sesli olarak discordda toplantı düzenleyip, takıldığımız yerleri konuşup fikir alışverişinde bulunduk.
-- Ayrı ayrı dosyalarda çalışmak yerine tek bir dosya üzerinden çalışmaya başlanıldı.
-
-**Sprint içinde tamamlanması tahmin edilen puan**: 150 puan
-
-**Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 485 puanlık backlog bulunmaktadır. Bu sprintte 1 haftalık Kurban Bayramı tatili olduğundan kaynaklı en azından 150 puanlık backlog yapılması gerektiği karar verildi. 
-
- **Daily Scrum**: 
-[**Sprint 2 Daily Scrum Chats**](https://github.com/hamdyekiz/OUABootcampTeam-U139/blob/main/Project%20Management/2.%20Sprint/sprint2_dailyscrum.pdf)
-
- **Product Backlog**: 
-[Product Backlog URL](https://trello.com/b/fRqmKOd4/bootcamp-u139)
-
-
-
-
-**Sprint board update**: Sprint board screenshotları: 
-
-![Backlog 1](https://github.com/hamdyekiz/OUABootcampTeam-U139/blob/main/Project%20Management/2.%20Sprint/backlogsprint2.PNG)
 
 
 **Oyun Durumu**: Ekran görüntüleri:
@@ -128,52 +65,7 @@ Keşif tabanlı ve bulmaca oyunlarından keyif alan geniş bir oyuncu kitlesine 
 ![Screenshot 5](https://github.com/hamdyekiz/OUABootcampTeam-U139/blob/main/Project%20Management/2.%20Sprint/Ekran_goruntusu_2023-07-02_230801.png)
 
 
-
- **Sprint Review katılımcıları:** 
-- Hamdi Ekiz, Yağmur Çağla Öztürk
-  
- **Sprint Review**: 
-- Ayrı ayrı çalışılan dosyalar birleştirildi ve herkes tek bir dosya üzerinden çalışmaya başladı. 
-- Oyun giriş menüsü yapıldı, can azalma mekaniği kodlandı, karakter animasyonları hazırlandı. 3 boyutlu dünyalar gelişme aşamasında.
-- 160 puanlık backlog tamamlandı.
-
-**Alınan kararlar**: 
-- 3 boyutlu dünyaların yapımının hızlandırılması gerektiğine karar verildi
-
-
-  
- **Sprint Retrospective:**
-- Çalışmalar son haftada bayramdan dolayı aksadı. Projenin yetişmesi için çalışmaların hızlandırılması gerektiğine vurgu yapıldı.
-- Ekip içi iletişimin arttırılması gerektiğine tekrardan vurgu yapıldı. 
-
-
-**Diğer Notlar**:
-- İkinci sprint dosyasında dünya tasarımıyla ilgili daha fazla görsel ve oyunun bir tane videosu bulunmaktadır.
-    
-  
-  ## Sprint 3
-
-**Sprint Notları**: 
-- Takım olarak proje yönetiminde Trello kullanmaya devam edildi. 
-- Daily Scrumları Whatsapp ve discord üzerinden gerçekleştirdik. İlk hafta biri hafta içi diğeri hafta sonu olmak üzere haftada en az 2 defa sesli olarak discordda toplantı düzenleyip, takıldığımız yerleri konuşup fikir alışverişinde bulunduk. İkinci hafta tüm gün discord üzerinde müsait oldukça birlikte çalıştık.
-- Product backloga birkaç yeni görev eklendi. Bu görevleri sprint sonuna kadar yapma kararı alınıldı.
-
-**Sprint içinde tamamlanması tahmin edilen puan**: 175 puan
-
-**Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 485 puanlık backlog bulunmaktadır. Bu sprintte projeyi bitirmemiz gerektiğinden dolayı 175 puanlık backlog yapıp sprinti sona erdirme kararı verdik. Ayrıca eğer backlog erken biterse Localization, NPC ve Diyalog sistemleride eklenmesi kararı alındı.
-
- **Daily Scrum**: 
-[**Sprint 3 Daily Scrum Chats**](https://github.com/hamdyekiz/OUABootcampTeam-U139/blob/main/Project%20Management/3.%20Sprint/sprint3_dailyscrum.pdf)
-
- **Product Backlog**: 
-[Product Backlog URL](https://trello.com/b/fRqmKOd4/bootcamp-u139)
-
-
-
-
-**Sprint board update**: Sprint board screenshotları: 
-
-![Backlog 1](https://github.com/hamdyekiz/OUABootcampTeam-U139/blob/main/Project%20Management/3.%20Sprint/sprintboard3.PNG)
+## Sprint 3
 
 
 **Oyun Durumu**: Ekran görüntüleri:
@@ -190,27 +82,4 @@ Keşif tabanlı ve bulmaca oyunlarından keyif alan geniş bir oyuncu kitlesine 
 ![Screenshot 10](https://github.com/hamdyekiz/OUABootcampTeam-U139/blob/main/Project%20Management/3.%20Sprint/7-maze.png)
 ![Screenshot 11](https://github.com/hamdyekiz/OUABootcampTeam-U139/blob/main/Project%20Management/3.%20Sprint/9-Dungeon.png)
 ![Screenshot 12](https://github.com/hamdyekiz/OUABootcampTeam-U139/blob/main/Project%20Management/3.%20Sprint/finish.png)
-
-
- **Sprint Review katılımcıları:** 
-- Hamdi Ekiz, Yağmur Çağla Öztürk, Makbule Tomay
-  
- **Sprint Review**: 
-- Backlog erken bitirildi. Bu yüzden dolayı Localization, NPC ve Diyalog Sistemleri de projeye zamanında eklendi.
-- Can yenileme mekaniğinin backlogdan kaldırılmasına karar verildi. (20 puan)
-- 90 puanlık ekstra yapılan backloglar ve 20 puanlık backlog çıkarılması sonucunda 245 puanlık backlog tamamlandı.
-
-**Alınan kararlar**: 
--
-  
- **Sprint Retrospective:**
-- Son değişikliklerin yapılması için hızlanmamız gerektiğine karar verildi
-- Proje tesliminde kullanacağımız video için kaynak araştırılması gerektiğine karar verildi.
-
-**Diğer Notlar**:
-- Üçüncü sprint dosyasında dünya tasarımıyla ilgili daha fazla görsel ve oyun içi videolar bulunmaktadır.
-  
-  
-
-
 
